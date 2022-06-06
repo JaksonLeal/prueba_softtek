@@ -1,0 +1,5 @@
+- Test sencillos implementados.
+- Servidor glass fish 5.0.1
+- Motor de base de datos MYSQL.
+- Aplicacion web jsf-jpa-java.
+- IDE netBeans.

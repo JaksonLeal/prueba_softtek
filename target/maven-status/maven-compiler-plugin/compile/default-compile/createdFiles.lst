@@ -1,0 +1,14 @@
+com\softtek\dao\VehiculoDAO.class
+com\softtek\repository\IVehiculo.class
+com\softtek\db\ConexionJPA.class
+com\softtek\test\TestVehiculo.class
+com\softtek\entity\Proveedor_.class
+com\softtek\dao\ProveedorDAO.class
+com\softtek\entity\Vehiculo_.class
+com\softtek\mb\VehiculoBean.class
+com\softtek\repository\IProveedor.class
+com\softtek\entity\Vehiculo.class
+com\softtek\resources\JavaEE8Resource.class
+com\softtek\test\TestProveedor.class
+com\softtek\entity\JAXRSConfiguration.class
+com\softtek\entity\Proveedor.class
